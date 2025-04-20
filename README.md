@@ -2,7 +2,7 @@
 
 Creates a directory tree diagram using Python when run in a bash terminal.
 
-**Author:** James Buntwal (BuntwalJ@aol.co.uk)
+**Author:** James Buntwal (James@Buntwal.com)
 
 
 Example Usage
